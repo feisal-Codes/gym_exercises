@@ -1,1 +1,1 @@
-# https://cute-selkie-83f0f7.netlify.app/
+# https://exercises-gymm.netlify.app/
